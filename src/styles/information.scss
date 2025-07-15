@@ -1,0 +1,25 @@
+.information {
+  &__title {
+    color: $contact-us-title;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0 0 8px;
+
+    &--margin {
+      margin-top: 24px;
+    }
+  }
+
+  &__content {
+    margin-bottom: 24px;
+    color: $contact-us-content;
+    font-family: "Space Mono", monospace;
+    line-height: 22px;
+    text-decoration: none;
+    cursor: pointer;
+
+    &:hover {
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+  }
+}
