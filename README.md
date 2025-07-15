@@ -1,4 +1,14 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Page Dia
+
+Односторінковий вебсайт, реалізований з використанням HTML, SCSS та JavaScript. Проєкт створено на основі дизайну з Figma.
+
+## 🔗 Live Preview  
+[DEMO LINK](https://vladkugot.github.io/page_bose_new/)
+
+## 🎨 Design Reference  
+[DESIGN LINK] (https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&p=f)
+
+## 🛠 Technologies Used  
+- HTML5  
+- SCSS (Sass)  
+- JavaScript (Vanilla)
